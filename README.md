@@ -33,7 +33,7 @@ Demonstrar domínio em:
 
 ✅ Fácil setup — Criação de projeto em minutos
 
-Supabase é essencialmente PostgreSQL com uma interface moderna. Tudo que você aprender aqui funciona em qualquer PostgreSQL.
+Supabase é essencialmente PostgreSQL com uma interface moderna.
 
 
 ---
