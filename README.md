@@ -2,40 +2,33 @@
 Projeto de análise SQL realizado no Supabase, incluindo consultas, modelagem e documentação para portfólio.
 
 
-📊 **Projeto: Análise Exploratória de Dados com SQL no Supabase**
+## 📊 Projeto: Análise Exploratória de Dados com SQL no Supabase
 
-Este projeto faz parte do meu portfólio de Data Analytics & Data Engineering, utilizando SQL + Supabase para realizar consultas, explorar tabelas e gerar análises de negócios a partir de dados de e-commerce.
+O projeto visa demonstrar domínio técnico em:
 
-O projeto foi desenvolvido baseado no conteúdo da Aula 01 (SQL) da Imersão Jornada de Dados do Lucas Galvão.
-🔗 Referência da aula: Imersão Jornada – SQL
-
+- Exploração e análise de dados utilizando SQL  
+- Construção de consultas analíticas e consultas de negócio  
 
 ---
 
 ## 🎯 Objetivo do Projeto
 
-Demonstrar domínio em:
+Entender o negócio com SQL
 
-- Exploração de dados com SQL  
-- Criação de consultas analíticas  
-- Manipulação de bancos SQLite no DBeaver  
-- Estruturação profissional de um projeto de portfólio  
+- Descobrir os produtos mais vendidos
+- Identificar os principais clientes
+- Comparar preços com o mercado
+- Criar segmentações de clientes
 
----
-
-## 🛠️ Plataforma: Supabase
-
-✅ PostgreSQL completo — Banco de dados profissional e robusto
-
-✅ Interface web — Editor SQL integrado, fácil de usar
-
-✅ Gratuito — Plano free generoso para aprender
-
-✅ Fácil setup — Criação de projeto em minutos
-
-Supabase é essencialmente PostgreSQL com uma interface moderna.
 
 
 ---
 
-## 🧪 Análise Exploratória (EDA)
+## 🛠️ Plataforma Utilizada: Supabase
+
+O Supabase foi escolhido por fornecer um ambiente completo para desenvolvimento SQL:
+
+- **PostgreSQL completo** — Banco de dados profissional e robusto
+- **Interface web** — Editor SQL integrado, fácil de usar
+- **Gratuito** — Plano free generoso para aprender
+- **Fácil setup** — Criação de projeto em minutos
